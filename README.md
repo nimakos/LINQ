@@ -1,6 +1,6 @@
 # LINQ
 
-IDE:Visual studio 2017 enterprise
+IDE: Visual studio 2017 enterprise
 
 C#
 framework: .NET
